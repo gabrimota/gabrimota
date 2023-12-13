@@ -14,7 +14,7 @@ Olá! Sou o gabrimota 👋
   <a href="https://www.linkedin.com/in/gabriel-bomfim-mota-da-silva-38a525258/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
-## Cobra comendo minhas contribuições do github
+
 
 ![snake gif](https://github.com/gabrimota/gabrimota/blob/output/github-contribution-grid-snake.svg)
  
