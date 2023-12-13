@@ -15,5 +15,5 @@ Olá! Sou o gabrimota 👋
   
 </div>
 
-![snake gif](https://github.com/gabrimota/gabrimota/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/gabrimota/gabrimota/blob/output/github-contribution-grid-snake.gif)
  
