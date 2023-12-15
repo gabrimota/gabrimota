@@ -18,3 +18,4 @@ Olá! Sou o gabrimota 👋
 
 ![snake gif](https://github.com/gabrimota/gabrimota/blob/output/github-contribution-grid-snake.gif)
 
+![snake gif](https://github.com/gabrimota/gabrimota/blob/output/github-contribution-grid-snake.svg)
