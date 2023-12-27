@@ -2,7 +2,7 @@ Olá! Sou o gabrimota 👋
 
 🔭 Atualmente não estou trabalhando
 
-🌱 Estou fazendo faculdade de SI / estou aprendendo a utilizar o figma
+🌱 Estou fazendo faculdade de SI / estou aprendendo Flutter
 
 📫 gabmota196@gmail.com
 
