@@ -11,7 +11,7 @@ Olá! Sou o gabrimota 👋
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrimota&show_icons=true&theme=tokyonight) 
      <div>
-     <img height="150em" align="left"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrimota&layout=compact&langs_count=7&theme=tokyonight"/>
+     <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrimota&layout=compact&langs_count=7&theme=tokyonight"/>
   </a>
 </div>
 
