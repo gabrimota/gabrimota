@@ -2,7 +2,7 @@ Olá! Sou o gabrimota 👋
 
 🔭 Atualmente não estou trabalhando
 
-🌱 Estou fazendo faculdade de SI / estou aprendendo Flutter
+🌱 Estou fazendo faculdade de SI / estou aprendendo Flutter, javascript
 
 📫 gabmota196@gmail.com
 
