@@ -25,7 +25,6 @@ Olá! Sou o gabrimota 👋
 </div>
 
 
-
 <div align="center">
-<img  src="https://raw.githubusercontent.com/gabrimota/gabrimota/output/github-contribution-grid-snake.svg" alt="contribution graph" />
+<img  src="https://raw.githubusercontent.com/gabrimota/gabrimota/output/github-contribution-grid-snake-dark.svg" alt="contribution graph" />
 </div>
