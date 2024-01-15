@@ -32,7 +32,7 @@ env:
       
 name: Process commits and update snake size
       run: |# Your custom logic to process commits and update snake size# This is just an example, you may need to implement the actual logic# Update the snake size based on the number of commits, for instance
-        snake_size=$((snake_size + $(git rev-list --count HEAD)))
+       run: snake_size=$((snake_size + $(git rev-list --count HEAD)))
 
       
 name: Show build status
