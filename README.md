@@ -12,10 +12,10 @@ Olá! Sou o gabrimota 👋
 <!--- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrimota&show_icons=true&theme=tokyonight)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrimota&showicons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) 
   
 --->
-<div align="center">
+<div align="left">
   <a href="https://github.com/duribeiro">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gabrimota&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrimota&theme=dracula&hide_border=false&&layout=compact"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gabrimota&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrimota&theme=tokyonight&hide_border=false&&layout=compact"/>
   </a>
 </div>
 <div> 
